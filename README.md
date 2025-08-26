@@ -172,9 +172,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support & Contact
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/kaleawadi/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/kaleawadi/discussions)
-- **Email**: your.email@example.com
+
+- **Telgeram**: https://t.me/FTYOTORAWI
 
 ## 🔮 Roadmap
 
@@ -191,6 +190,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Made with ❤️ for the Ethiopian Orthodox Tewahedo Church Community**
 
-*በኢትዮጵያ ኦርቶዶክስ ተዋሕዶ ቤተ ክርስቲያን ማህበረሰብ ለማገልገል በፍቅር የተዘጋጀ*
 
 </div>
